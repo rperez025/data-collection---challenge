@@ -52,3 +52,21 @@ e. Analyzed the dataset by using Pandas functions to answer the following questi
 
 f. Export the DataFrame to a CSV file.
 
+**RESOURCES AND REFERENCES**
+
+During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
+
+1. Reviewed and reperformed a majority of the class activities in my GitLab Working Folder.
+
+2. Watched the following instructor videos made by Dr. A:
+* [Mission to Mars Web Scraping Demo (Part 1)](https://youtu.be/EQaILgNmu1A)
+* [Mission to Mars Web Scraping Demo (Part 2)](https://youtu.be/0ahM6G1xb6E)
+
+3. Research reference:
+- [Change the data type of a column or a Pandas Series](https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
+
+4. Code reference:
+- [BharatGuturi](https://github.com/BharatGuturi/Mars-weather-data-scraping-and-analysis/blob/main/mars_data_challenge_part_2.ipynb)
+  * In [8] convert_dict={'id':int,'sol':int,'ls':int,'month':int,'min_temp':float,'pressure':float}temp_df=temp_df.astype(convert_dict)temp_df["terrestrial_date"]=pd.to_datetime(temp_df["terrestrial_date"])print(temp_df.dtypes)
+  * Used in  In [10]
+![image](https://github.com/rperez025/data-collection---challenge/assets/144635481/5bd329fa-9dff-4ff4-af22-d8ac135c5bf9)
