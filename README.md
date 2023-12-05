@@ -50,7 +50,7 @@ e. Analyzed the dataset by using Pandas functions to answer the following questi
   - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
   - Visually estimate the result by plotting the daily minimum temperature.
 
-f. Export the DataFrame to a CSV file.
+f. Exported the DataFrame to a CSV file.
 
 **RESOURCES AND REFERENCES**
 
@@ -66,7 +66,4 @@ During the challenge, I referenced the following to aid in my understanding and 
 - [Change the data type of a column or a Pandas Series](https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
 
 4. Code reference:
-- [BharatGuturi](https://github.com/BharatGuturi/Mars-weather-data-scraping-and-analysis/blob/main/mars_data_challenge_part_2.ipynb)
-  * In [8] convert_dict={'id':int,'sol':int,'ls':int,'month':int,'min_temp':float,'pressure':float}temp_df=temp_df.astype(convert_dict)temp_df["terrestrial_date"]=pd.to_datetime(temp_df["terrestrial_date"])print(temp_df.dtypes)
-  * Used in  In [10]
-![image](https://github.com/rperez025/data-collection---challenge/assets/144635481/5bd329fa-9dff-4ff4-af22-d8ac135c5bf9)
+* In [8] convert_dict={'id':int,'sol':int,'ls':int,'month':int,'min_temp':float,'pressure':float}temp_df=temp_df.astype(convert_dict)temp_df["terrestrial_date"]=pd.to_datetime(temp_df["terrestrial_date"])print(temp_df.dtypes) -- Used in [part_2_mars_weather.ipynb](https://github.com/rperez025/data-collection---challenge/blob/main/part_2_mars_weather.ipynb) in In [10]
