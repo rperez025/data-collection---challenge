@@ -57,18 +57,9 @@ f. Exported the DataFrame to a CSV file.
 During the challenge, I referenced the following to aid in my understanding and completion of the assignment:
 
 1. Reviewed and reperformed a majority of the class activities in my GitLab Working Folder.
-
-2. Watched the following instructor videos made by Dr. A:
-
-* [SQL Alchemy Day 01 - Activity 11 - Surfer SQL (Demo)](https://www.youtube.com/watch?v=vNu18haZWGE)
-* [SQL Alchemy Day 02 - Activity 08 - Salary Exploration (Extended Demo)](https://www.youtube.com/watch?v=liui4_Ukp6k)
-* [SQL Alchemy Day 02 - Activity 04 - Travel DB with CRUD (Extended Demo)](https://www.youtube.com/watch?v=pKUYb2qq7z4)
-* [SQL Alchemy Day 03 - Activity 7, 8, & 9 Walkthrough](https://www.youtube.com/watch?v=Tj4A8vHS7hM)
-* [SQL Alchemy Day 03 - Activity 11 Solution](https://www.youtube.com/watch?v=y8C_NuCo_7o)
-* [SQL Day 03 - Activities 10 and 11 - (Demo)](https://www.youtube.com/watch?v=npftGEiTsaY)
-
-3. Research reference:
+  
+2. Research reference:
 - [Change the data type of a column or a Pandas Series](https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
 
-4. Code reference:
+3. Code reference:
 * In [8] convert_dict={'id':int,'sol':int,'ls':int,'month':int,'min_temp':float,'pressure':float}temp_df=temp_df.astype(convert_dict)temp_df["terrestrial_date"]=pd.to_datetime(temp_df["terrestrial_date"])print(temp_df.dtypes) -- Used in [part_2_mars_weather.ipynb](https://github.com/rperez025/data-collection---challenge/blob/main/part_2_mars_weather.ipynb) in In [10]
