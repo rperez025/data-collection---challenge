@@ -59,12 +59,13 @@ During the challenge, I referenced the following to aid in my understanding and 
 1. Reviewed and reperformed a majority of the class activities in my GitLab Working Folder.
 
 2. Watched the following instructor videos made by Dr. A:
-* [SQL Day 03 - Activities 10 and 11 - (Demo)](https://www.youtube.com/watch?v=npftGEiTsaY)
+
 * [SQL Alchemy Day 01 - Activity 11 - Surfer SQL (Demo)](https://www.youtube.com/watch?v=vNu18haZWGE)
 * [SQL Alchemy Day 02 - Activity 08 - Salary Exploration (Extended Demo)](https://www.youtube.com/watch?v=liui4_Ukp6k)
 * [SQL Alchemy Day 02 - Activity 04 - Travel DB with CRUD (Extended Demo)](https://www.youtube.com/watch?v=pKUYb2qq7z4)
 * [SQL Alchemy Day 03 - Activity 7, 8, & 9 Walkthrough](https://www.youtube.com/watch?v=Tj4A8vHS7hM)
 * [SQL Alchemy Day 03 - Activity 11 Solution](https://www.youtube.com/watch?v=y8C_NuCo_7o)
+* [SQL Day 03 - Activities 10 and 11 - (Demo)](https://www.youtube.com/watch?v=npftGEiTsaY)
 
 3. Research reference:
 - [Change the data type of a column or a Pandas Series](https://www.geeksforgeeks.org/change-the-data-type-of-a-column-or-a-pandas-series/)
